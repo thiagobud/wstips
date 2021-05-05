@@ -1,1 +1,1 @@
-token = "DIGITE SEU TOKEN AQUI"
+token = dddddd AQUI"
